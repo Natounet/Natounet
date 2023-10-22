@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello everyone!<br>🎓 I am currently a first-year computer science student at the University of Rennes.<br>🔒 I have a strong interest in cybersecurity and thoroughly enjoy exploring this field while taking on new challenges.
+👋 Hello everyone!<br>🎓 I am currently a second-year computer science student at the University of Rennes.<br>🔒 I have a strong interest in cybersecurity and thoroughly enjoy exploring this field while taking on new challenges.
 
 
 
